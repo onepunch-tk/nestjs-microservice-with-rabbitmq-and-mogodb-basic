@@ -1,0 +1,11 @@
+{
+  "type": "mssql",
+  "host": "localhost",
+  "port": 1433,
+  "username": "sa",
+  "password": "dostm!@#",
+  "database": "db.nest_admin",
+  "autoLoadEntities": true,
+  "synchronize": true,
+  "options": { "trustServerCertificate": true }
+}
